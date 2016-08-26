@@ -11,10 +11,7 @@ public class Conjuncao {
                       // 5. Locução conjuntiva (no entanto) 
                       // 6.não só...mas também; 
                       // 7.não...mas sim; // A civilização não se mede pelo aperfeiçoamento material, mas sim pela elevação moral.
-    // 7.não...mas sim; // A civilização não se mede pelo aperfeiçoamento material, mas sim pela elevação moral.
     
-    // 7.não...mas sim; // A civilização não se mede pelo aperfeiçoamento material, mas sim pela elevação moral.
-
 
     public Conjuncao(String conjuncao, String tipo) {
         this.conjuncao = conjuncao;
