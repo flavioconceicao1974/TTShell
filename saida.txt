@@ -1,0 +1,17 @@
+eu	PP1	eu
+tenho	VMI	ter
+a	DA0	o
+palavra	NCFS	palavra
+certa	DI0	certo
+para	SPS	para
+doutor	NCMS	doutor
+não	RN	não
+reclamar	VMN	reclamar
+a	DA0	o
+minha	DP1	meu
+mente	NCFS	mente
+boquiaberta	AQ0	boquiaberto
+precisa	VMI	precisar
+mesmo	PI0	mesmo
+deserta	VMI	desertar
+.	Fp	.
